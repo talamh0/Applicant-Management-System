@@ -1,4 +1,4 @@
-# 📌 Applicant Management System 🚀  
+#  Applicant Management System 
 A simple **C program** that reads, processes, and manages job applicants using a **linked list**.  
 It calculates scores, updates statuses, and outputs results to both a file and the console.  
 
